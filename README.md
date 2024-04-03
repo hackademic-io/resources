@@ -2,6 +2,34 @@
 
 This repository contains helpful links, tips, and other various resources. If you have no idea where to start and you're very early in your journey, I recommend taking a look at https://roadmap.sh/ to get a feel for the technology you should be looking at.
 
+## Breaking Into Tech Roadmap
+
+This is a general roadmap for folks considering various careers in tech.
+
+::: mermaid
+graph TD
+    A[Getting Into Tech Roadmap] --> B(Do I know the basics of coding?)
+    B --> C{Yes. I want to get into...}
+    B --> D{No.<br/>I have ___ amount of time to learn}
+    C --> E[Fullstack]
+    C --> F[Backend]
+    C --> G[Frontend]
+    D --> H[1+ year]
+    D --> I[< 1 year]
+    I --> J[Consider these non-technical roles instead]
+    J --> K[IT/Help Desk]
+    J --> L[Program/Project Mgmt<br/>if you are organized and a good communicator]
+    J --> M[Product Mgmt<br/>if you have a biz dev background]
+    H --> E
+    H --> F
+    H --> G
+    C --> N[Developer adjacent position]
+    N --> O[QA Engineering]
+    N --> P[Solutions Engineer]
+    N --> L
+    N --> M
+:::
+
 ## Design Patterns
 
 - https://www.patterns.dev/
