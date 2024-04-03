@@ -11,9 +11,9 @@ graph TD
     A[Getting Into Tech Roadmap] --> B(Do I know the basics of coding?)
     B --> C{Yes. I want to get into...}
     B --> D{No.<br/>I have ___ amount of time to learn}
-    C --> E[Fullstack]
-    C --> F[Backend]
-    C --> G[Frontend]
+    C --> E[<a href='https://roadmap.sh/full-stack'>Fullstack</a>]
+    C --> F[<a href='https://roadmap.sh/backend'>Backend</a>]
+    C --> G[<a href='https://roadmap.sh/frontend'>Frontend</a>]
     D --> H[1+ year]
     D --> I[< 1 year]
     I --> J[Consider these non-technical roles instead]
@@ -25,10 +25,21 @@ graph TD
     H --> G
     C --> N[Developer adjacent position]
     N --> O[QA Engineering]
-    N --> P[Solutions Engineer]
+    N --> P[<a href='https://www.storylane.io/blog/what-does-a-solution-engineer-do-hear-from-the-experts'>Solutions Engineer</a>]
     N --> L
     N --> M
 ```
+
+## Good To Know Regardless of What Path You Choose
+
+In any coding or technology related role, knowing these skills will only benefit you. You should feel comfortable with these skills prior to even considering applying for work:
+- html/css
+- git / version control
+- javascript (if frontend or fullstack)
+- OR a different language (i.e. Python, Java, Golang)
+- Relational databases (MySQL/Postgres are good starters)
+- SQL (for interacting with your database)
+
 
 ## Design Patterns
 
