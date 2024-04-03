@@ -6,7 +6,7 @@ This repository contains helpful links, tips, and other various resources. If yo
 
 This is a general roadmap for folks considering various careers in tech.
 
-::: mermaid
+```mermaid
 graph TD
     A[Getting Into Tech Roadmap] --> B(Do I know the basics of coding?)
     B --> C{Yes. I want to get into...}
@@ -28,7 +28,7 @@ graph TD
     N --> P[Solutions Engineer]
     N --> L
     N --> M
-:::
+```
 
 ## Design Patterns
 
