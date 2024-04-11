@@ -1,20 +1,3 @@
-# Phone Screening Questions
-
-## General Questions
-
-1. Tell me about yourself ?
-Eg Answer-"I've been a software developer for over 1.5 years, with experience in a variety of programming languages and technologies. I most recently worked as a developer small tech startup, where I was responsible for designing, developing, and implementing new software features. I'm passionate about creating high-quality, maintainable code that solves real-world problems. I'm also a team player and I'm always eager to learn new things. I'm excited to take on new challenges and I'm confident that I can make a significant contribution to your team."
-
-2. What do you know about our company?
-Eg Answer- “I’ve been reading your advice articles for years, and I love your mission of helping people build careers they’re passionate about. I spent the past 10 years in roles I didn’t love before finally finding my niche in sales, and think it would be an amazing experience to help others avoid the path I took and find a job where they can thrive earlier in their careers.”
-Note: HR/Recruiters/ChiefOfStaffs all love to see that you have enthusiasm for what they are building. Prior to any call with a company, I recommend at least looking up their website and any recent news articles about them.
-
-3. Why did you leave/are you leaving your last position?
-Eg Answer- “I’ve been working in project management for several years now, and while I love the work I’m doing, I’d love to apply my skill set to the tech space—and believe this job would be the perfect opportunity to do so.”
-
-4. What are you looking for in your next job?
-Eg Answer- “If you already have a job and you’re looking for a different one, it’s because there’s something missing,”- “It’s OK to be honest about that. And there’s a way of doing it without badmouthing anybody or speaking poorly of your current employer.”
-
 ## Leveraging ChatGPT to better prepare questions
 
 Leverage ChatGPT to prepare yourself for handling these types of questions. Pro Tip: Speak your answer out loud. You don’t want to get tongue twisted the first time you talk about your technical skills with a recruiter.
